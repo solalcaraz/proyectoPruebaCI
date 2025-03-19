@@ -1,5 +1,5 @@
 package ar.edu.unsam.algo2
 
 class Perro {
-    fun ladrar() = "Guau!"
+    fun ladrar() = "Guau!!!!"
 }
